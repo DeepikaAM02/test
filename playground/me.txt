@@ -1,5 +1,0 @@
-{{#user}
-Name: Deepika A M
-Skills: HTML,Python, C
-Email: deepikaam980@gmail.com
-{{/user}}
